@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Triggerer
+  - Grass
+  - Stone
+  - Wall
+  - Moving Wall
+  - Interactable
+  - projectile
+  - FxTemporaire
+  - table
+  - skull
+  - vase
+  - sword
+  - discobole
+  - Point light1
+  - Point light2
+  - Point light3
+  - Point light4
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Interactable
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - MovableObject
+  - Ragdoll
+  - RemotePlayer
+  - IgnoreBullets
+  - Enemy
+  - Pickup
+  - Trigger
+  - MovingPlatform
+  - Debris
+  - LocalPlayer
+  - Weapon
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
